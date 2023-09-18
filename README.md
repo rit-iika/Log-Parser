@@ -1,5 +1,5 @@
-# Log-Parser-C-
-Problem statement -
+
+# Problem statement -
 Working with logs can get messy because it’s a lot of raw data. But they are a rich source of information.
 Logs come in various formats, raw and unorganized. Getting insights from all of these logs isn’t a trivial task. Log Parser is a tool that helps us extract such information easily. Log Parser is a command-line tool.
 # How Log Parser Works
