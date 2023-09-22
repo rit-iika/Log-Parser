@@ -1,0 +1,12 @@
+# structure and design
+
+folder structure:
+main.cpp
+Parser.cpp
+Parser.h
+config.ini
+
+Design rules:
+1. do not include one file again and again
+2. make sure of Singularity during class creation.
+3. SOLID principles
